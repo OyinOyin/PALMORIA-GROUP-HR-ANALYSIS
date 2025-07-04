@@ -45,7 +45,15 @@ A comprehensive project analysis of Palmoria employee data using Power BI. This 
      ![Cards](https://github.com/user-attachments/assets/6c3ca78b-82fb-4964-92c9-d5e1864bea52)
 
    4  A Bar Chart Showing Rating Distribution by gender
-    ![Bar Chart - Rating distribution](https://github.com/user-attachments/assets/b109ee40-affc-4e6e-b6e2-24f9cae36bf2)
+
+     ![Bar Chart - Rating distribution](https://github.com/user-attachments/assets/b109ee40-affc-4e6e-b6e2-24f9cae36bf2)
+
+     ## DAX Measures
+        Some measures were calculated so as to answer questions and to gain insight from the company's data. Few out of the measures calculated are;
+     - a. Average Salary
+                Average Salary = AVERAGE ('palmoria Employee[Salary])
+
+        b. 
 
     
 
