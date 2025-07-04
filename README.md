@@ -59,7 +59,7 @@ A comprehensive project analysis of Palmoria employee data using Power BI. This 
       c. Total Bonus Payout
         - Total Bonus Payout = SUM('Palmoria Employee'[Annual Bonus Amount])
 
-       ## Recommendations
+   ## Recommendations
             - Salariew review
             - Update of company's Policy
             - Unbiasedness in terms of gender in the company 
