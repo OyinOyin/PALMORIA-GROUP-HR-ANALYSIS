@@ -35,6 +35,8 @@ A comprehensive project analysis of Palmoria employee data using Power BI. This 
        - Created a table to show individual employee bonus amount and the top 5 employee wuith the highest pay
       
       ## Visualizations
+
+    ![image Alt]([image url](https://github.com/OyinOyin/PALMORIA-GROUP-HR-ANALYSIS/blob/0f4a822d12a97dce6806a77778d2e3a35b4eb8cd/Palmoria%20Dashboard%201.png))
     
     
     
