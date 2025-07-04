@@ -34,13 +34,17 @@ A comprehensive project analysis of Palmoria employee data using Power BI. This 
        - Visualised Bar the ntotal bonus payout by Regions
        - Created a table to show individual employee bonus amount and the top 5 employee wuith the highest pay
       
-      ## Visualizations       
-    ![Palmoria Dashboard 1](https://github.com/user-attachments/assets/de6afd2d-0e3b-4b5a-89f1-bc249185473b)
+      ## Visualizations
+    1. A dashboard showing difeferent KPIs     
+     ![Palmoria Dashboard 1](https://github.com/user-attachments/assets/de6afd2d-0e3b-4b5a-89f1-bc249185473b)
 
-    ![Palmororia Dashboard 2](https://github.com/user-attachments/assets/acd21a20-410b-4617-9fa7-9694313ca725)
+    2. Performance Rating in the Organisation
+     ![Palmororia Dashboard 2](https://github.com/user-attachments/assets/acd21a20-410b-4617-9fa7-9694313ca725)
 
-    ![Cards](https://github.com/user-attachments/assets/6c3ca78b-82fb-4964-92c9-d5e1864bea52)
+    3 Cards showing important details such as gender count, average salary , gender pay gap
+     ![Cards](https://github.com/user-attachments/assets/6c3ca78b-82fb-4964-92c9-d5e1864bea52)
 
+   4  A Bar Chart Showing Rating Distribution by gender
     ![Bar Chart - Rating distribution](https://github.com/user-attachments/assets/b109ee40-affc-4e6e-b6e2-24f9cae36bf2)
 
     
