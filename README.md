@@ -49,12 +49,20 @@ A comprehensive project analysis of Palmoria employee data using Power BI. This 
      ![Bar Chart - Rating distribution](https://github.com/user-attachments/assets/b109ee40-affc-4e6e-b6e2-24f9cae36bf2)
 
      ## DAX Measures
-        Some measures were calculated so as to answer questions and to gain insight from the company's data. Few out of the measures calculated are;
-     - a. Average Salary
-                Average Salary = AVERAGE ('palmoria Employee[Salary])
+        To achieve a better analysis of the data, several dax measures were created. Below are a few key examples used to calculate metrices.
+       a. Average Salary
+         - Average Salary = AVERAGE ('palmoria Employee[Salary])
 
-        b. 
+        b. Gender Pay Gap (%)
+          - Gender Pay Gap (%) = VAR MaleAvg = CALCULATE(AVERAGE('Palmoria Employee'[Salary]),'Palmoria Employee'[Gender] = "Male") VAR FemaleAvg = CALCULATE(AVERAGE('Palmoria Employee'[Salary]), 'Palmoria Employee'[Gender] = "Female") RETURN DIVIDE(MaleAvg - FemaleAvg, MaleAvg)
 
+      c. Total Bonus Payout
+        - Total Bonus Payout = SUM('Palmoria Employee'[Annual Bonus Amount])
+
+       ## Recommendations
+            - Salariew review
+            - Update of company's Policy
+            - Unbiasedness in terms of gender in the company 
     
 
     
